@@ -20,12 +20,7 @@ class  LeftTriangle
 	}
 }
 
-
-
-
-
-
-
+// Edited in the github to check pull
 
 
 
