@@ -19,3 +19,15 @@ class  LeftTriangle
 		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+// File added to github
